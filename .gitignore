@@ -15,3 +15,6 @@ output/
 # IDE and OS
 .vscode/
 .DS_Store
+pyproject.toml
+uv.lock
+.python-version
